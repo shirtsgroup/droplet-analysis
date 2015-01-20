@@ -9,8 +9,8 @@ from scipy import stats
 # Parameters
 #===============================================================================
 
-# File path to superhydrophobic directory
-base_path = '/User/username/directory/superhydrophobic/'
+# File path to the directory
+base_path = '/User/username/directory/droplet-analysis/'
 
 #===============================================================================
 # Subroutines

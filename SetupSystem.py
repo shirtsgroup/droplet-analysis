@@ -10,8 +10,8 @@ from random import randrange
 # Parameters
 #===============================================================================
 
-# Sets the base path to be equal to the path to the 'superhydrophobic' directory
-base_path = '/User/username/directory/superhydrophobic/'
+# Sets the base path to be equal to the path to the directory
+base_path = '/User/username/directory/droplet-analysis/'
 
 # General Constants
 # Avogadro's number (DO NOT CHANGE!)

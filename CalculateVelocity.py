@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 #===============================================================================
 
 # File path to directory containing the stored data
-work_path = '/User/username/directory/superhydrophobic/'
+work_path = '/User/username/directory/droplet-analysis/simulation/'
 # Starting index values for velocity calculations
 startIndex = [1000, 10000, 20000]
 # Time analyzed per segment beginning at each starting index value

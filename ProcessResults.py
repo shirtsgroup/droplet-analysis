@@ -9,8 +9,8 @@ from scipy import stats
 # Parameters
 #===============================================================================
 
-# File path to superhydrophobic directory
-base_path = '/User/username/directory/superhydrophobic/'
+# File path to directory
+base_path = '/User/username/directory/droplet-analysis/'
 # Note: Must match sigma_fluid from the 'SetupSystem.py' file
 sigma = 0.3045
 # Note: Must match sigma_wall from the 'SetupSystem.py' file

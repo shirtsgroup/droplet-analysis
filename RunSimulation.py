@@ -9,10 +9,10 @@ import commands, math, os, pdb, scipy, shutil, sys, time
 # Parameters
 #===============================================================================
 
-# Path to the 'superhydrophobic' directory containing the 'simulation' directory
-base_path = '/User/username/directory/superhydrophobic/'
+# Path to the directory containing the 'simulation' directory
+base_path = '/User/username/directory/droplet-analysis/'
 # Path to the Gromacs installation directory with no '/' at the end
-gmx_path = '/User/username/directory/gromacs/'
+gmx_path = '/User/username/directory/gromacs'
 # Sets the maximum number of cores that will be utilized by Gromacs
 cores = 8
 
